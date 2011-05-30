@@ -129,7 +129,7 @@ extern NSString *const kGiftKitDeclinedToGift;
 // 'YES' will show the GiftKit alert everytime. Useful for testing how your message
 // looks and making sure the link to your app in the App Store works.
 */
-#define GIFTKIT_DEBUG						YES
+#define GIFTKIT_DEBUG						NO
 
 @interface GiftKit : NSObject <UIAlertViewDelegate> {
 	UIAlertView	*giftingAlert;
