@@ -23,12 +23,14 @@ Getting Started
 
 License
 -------
-Copyright 2010. [Rune Madsen] [rune].
+Copyright 2011 [Rune Madsen] [rune].
 This library is distributed under the terms of the MIT/X11.
 
 If you have any changed and updates to GiftKit, feel free to add them so the whole community 
 can enjoy them! :)
 
-[bloglink]: http://www.runmad.com/blog/
+![GiftKit](http://runmad.com/blog/wp-content/uploads/2011/05/GiftKitScreenshot.png)
+
+[bloglink]: http://runmad.com/blog/2011/05/introducing-giftkit-gifting-made-easy/
 [rune]: http://www.runmad.com/blog
 [appiraterlink]: http://arashpayan.com/blog/index.php/2009/09/07/presenting-appirater/
